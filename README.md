@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I’m a Backend developer with 4 years production experience. Currently working on getting a job as a __Data engineer__. 
+
+I pursue this goal as I am passionate about data, I love that data helps to make the most effective possible desicions and explore the world.
+
+How to contact me: ry4ina.irina@yandex.ru | https://t.me/Irina_Perina
+
+My education: 01.03.02 Applied mathematics and informatics
