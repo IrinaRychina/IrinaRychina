@@ -14,9 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I’m a Backend developer with 4 years production experience. Currently working on getting a job as a __Data engineer__. 
+I’m a Backend developer with 4 years of production experience. Currently, I'm working towards transitioning into a __data engineering role__. 
 
-I pursue this goal as I am passionate about data, I love that data helps to make the most effective possible desicions and explore the world.
+I'm pursuing this goal because I'm passionate about data. 
+
+I love how data enables effective decision-making in business and in science. It’s fascinating to see how data helps uncover patterns, test hypotheses, and drive discoveries. I see data engineering as a way to contribute to meaningful progress by ensuring that reliable, well-organized data is available for those who need it, whether for analysis, innovation, or discovery.
 
 How to contact me: ry4ina.irina@yandex.ru | https://t.me/Irina_Perina
 
